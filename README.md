@@ -31,3 +31,4 @@ python image_steganography.py
 ## Future Scope
 - As of now, the message is storing from 1st pixel, we could randomize the starting index
 - Using any encryption algorithm like RSA, the starting index can be encrypted
+- Using socket programming, an interface could be made where people could share the steg images and hide the messages.
